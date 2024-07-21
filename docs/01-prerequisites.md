@@ -16,8 +16,8 @@ Follow the Google Cloud SDK [documentation](https://cloud.google.com/sdk/) to in
 
 Verify the Google Cloud SDK version is 338.0.0 or higher:
 
-```
-gcloud version
+```console
+gcloud version --abc
 ```
 
 ### Set a Default Compute Region and Zone
